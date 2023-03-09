@@ -1,0 +1,1 @@
+<a {{ isset($target) ? "target='$target'" : '' }} href="{{ $url }}">{{ $visible }}</a>

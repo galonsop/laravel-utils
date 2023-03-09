@@ -1,0 +1,20 @@
+{
+    "name": "galonsop/laravel-utils",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Galonsop\\LaravelUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Germán Alonso Pérez",
+            "email": "g.alonso.per@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/support": "*"
+    }
+}
